@@ -1,0 +1,1 @@
+/home/dna/.config/omarchy/current/theme/neovim.lua
