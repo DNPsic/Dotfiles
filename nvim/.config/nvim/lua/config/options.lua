@@ -3,4 +3,5 @@
 -- Add any additional options here
 vim.opt.relativenumber = false
 vim.opt.spell = true
-vim.opt.spelllang = "es"
+vim.opt.spelllang = { "es", "en" }
+vim.opt.relativenumber = true
